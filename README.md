@@ -9,7 +9,7 @@ User-friendly Interface: Buttons are clearly labeled, and the result is displaye
 Responsive Design: Play on any device, whether it’s a desktop or mobile. The layout adapts accordingly.
 
 # Demo
-Try the game live here (insert your link).
+Try the game live here (https://glozog.github.io/Rock-Paper-Scissors-Game/).
 
 # How the Game Works
 Rock beats Scissors
