@@ -3,8 +3,8 @@ A simple, fun, and interactive Rock, Paper, Scissors game built using HTML, CSS,
 
 # Features
 Play Against the Computer: You select Rock, Paper, or Scissors, and the computer makes a random choice.
-Dynamic Score System: Scores are tracked across rounds, showing how many times you’ve won, lost, or drawn.
-Instant Game Result: After each round, the result (win/lose/draw) is shown immediately, along with both your choice and the computer's.
+Dynamic Score System: Scores are tracked across rounds, showing how many times you won, you lost, or it's a tie!.
+Instant Game Result: After each round, the result is shown immediately, along with both your choice and the computer's.
 User-friendly Interface: Buttons are clearly labeled, and the result is displayed in a fun and engaging way.
 Responsive Design: Play on any device, whether it’s a desktop or mobile. The layout adapts accordingly.
 
